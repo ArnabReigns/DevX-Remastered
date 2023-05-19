@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "header": "What is DEVx 2023?",
+        "text": "DEVx is Techno India University's first-ever spring fest organized by Google Developer Students Club, Techno India University (GDSC-TIU), an event that aims to be the annual celebration of the collaborative spirit of communities and open-source technologies. DEVx is a product of the student's zeal in technology and the willingness of tech experts who regularly mentor and give career-defining advice to their respective audiences."
+    },
+    {
+        "id": 2,
+        "header": "What is a GDSC?",
+        "text": "Google Developer Students Clubs (GDSC) are university-based non-profit community groups for students interested in emerging technologies. Students from all undergraduate or graduate programs with the urge to learn and grow are mentored and helped to advance in their tech journeys. GDSC-TIU has been one of the most impactful tech clubs in the entire city of Kolkata. Our Vision is to help bridge the gap between theory and practical know-how and also nurture the culture of tech-based skills at our university."
+    },
+    {
+        "id": 3,
+        "header": "Who can register for DEVx 2023?",
+        "text": "DEVx 2023 welcomes students from all years who are into tech, business, entrepreneurship, finance and content creation along with technophiles, subject-matter experts and learners who are looking for mentorship and guidance from experts."
+    },
+    {
+        "id": 4,
+        "header": "Where can I find updates regarding DEVx 2023?",
+        "text": "You can get updates on DEVx from our website, social media channels and if you are a part of our college community then through our chat groups as well."
+    },
+    {
+	    "id": 5,
+	    "header": "When and Where will DEVx 2023 take place?",
+	    "text": "Day 1 of DEVx 2023 is scheduled on 29 April 2023 at Techno India University campus, the address for which can be found in the Contact Us panel. The venue for Day 2 is scheduled on 30 April 2023 and venue is at EZCC KOLKATA"
+    },
+    {
+	    "id": 6,
+	    "header": "How can I cancel my ticket?",
+	    "text": "DEVx 2023 tickets are non-refundable by default, however, in case of a serious emergency, feel free to email us with your reasoning and we will do our best to help you out."
+    }
+]

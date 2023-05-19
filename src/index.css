@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700;800&display=swap');
+
+* 
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins',Arial, Helvetica, sans-serif;
+
+}
+body 
+{
+  overflow-x: hidden;
+}
+
+a 
+{
+  text-decoration: none;
+  color: inherit;
+}
+
+button, input
+{
+  padding: 0.5rem 1rem;
+  border: none;
+  outline: none;
+}
+
+button 
+{
+  cursor: pointer;
+}
+
+button:hover 
+{
+  background-color: rgb(29, 29, 29);
+  color: white;
+}
+
+.shadow 
+{
+  box-shadow: 0 0 10px -1px rgba(0, 0, 0, 0.449);
+}
+
+.p1
+{
+  padding: 1rem;
+}
+
+.p2 
+{
+  padding: 2rem;
+}
+
+.mt 
+{
+  margin-top: 1rem;
+}
+.mb
+{
+  margin-bottom: 1rem;
+}
+.m1
+{
+  margin: 1rem;
+}
+.m2 
+{
+  margin: 2rem;
+}
+.xm1
+{
+  margin: 0 1rem;
+}
+.mx2 
+{
+  margin: 0 2rem;
+}
+.xy1
+{
+  margin: 1rem 0;
+}
+.my2 
+{
+  margin: 2rem 0;
+}
+.xm1
+{
+  margin: 0 1rem;
+}
+.mx2 
+{
+  margin: 0 2rem;
+}
+
+.rounded 
+{
+  border-radius: 10px;
+}
+.rounded-sm 
+{
+  border-radius: 5px;
+}
+
+.debug 
+{
+  border: 1px solid red !important;
+  background-color: rgba(255, 255, 0, 0.393) !important;
+}
+
+/* size */
+
+.w100 
+{
+  width: 100%;
+}
+
+/* flex */
+
+.flex 
+{
+  display: flex;
+}
+
+.fcenter 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fgap 
+{
+  gap: 1rem;
+}
+
+.jcc
+{
+  justify-content: center;
+}
+.jcb
+{
+  justify-content: space-between;
+}
+.jca
+{
+  justify-content: space-around;
+}
+.jce 
+{
+  justify-content: flex-end;
+}
+.jcs
+{
+  justify-content: flex-start;
+}
+.aic 
+{
+  align-items: center;
+}
+.ais 
+{
+  align-items: flex-start;
+}
+.aie
+{
+  align-items: flex-end;
+}
+.fcolumn 
+{
+  flex-direction: column;
+}
+
+/* font */
+
+.fsn
+{
+  font-size: 1rem;
+}
+.fsl 
+{
+  font-size: 1.4rem;
+}
+.fss 
+{
+  font-size: 0.9rem;
+
+}
+.fwn 
+{
+  font-weight: normal;
+}
+.fwb 
+{
+  font-weight: bold;
+}
+.fwcb 
+{
+  font-weight: 600;
+}
+.fcl 
+{
+  color: white;
+}
+.fcd 
+{
+  color: black;
+}
+
+
+
+/* special effects */
+
+.ULAnim
+{
+  position: relative;
+}
+.ULAnim::before
+{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 1px;
+  background-color: #273D9B;
+  transition: 0.6s ease;
+  width: 0%;
+}
+.ULAnim::after
+{
+  /* content: ""; */
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  right: 0;
+  height: 2px;
+  background-color: #273D9B;
+  transition: 0.5s ease;
+  width:0%;
+}
+.ULAnim:hover::before
+{
+  width: 100%;
+}
+.ULAnim:hover::after
+{
+  width: 100%;
+}

@@ -1,0 +1,36 @@
+[
+    {
+    "image":"/assets/vertical1.jpg",
+    "title":"TechXperience"
+},{
+    "image":"/assets/horizontal1.jpg",
+    "title":"On Cloud Nine"
+},
+{
+    "image":"/assets/horizontal2.jpg",
+    "title":"TECH-KNOWSPHERE"
+},
+{
+    "image":"https://images.pexels.com/photos/3568520/pexels-photo-3568520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title":"Tech-A-Break"
+},
+{
+    "image":"/assets/horizontal3.jpg",
+    "title":"30 under 30"
+},
+{
+    "image":"/assets/vertical3.jpg",
+    "title":"Connecting with Content"
+},
+{
+    "image":"https://images.pexels.com/photos/5915301/pexels-photo-5915301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title":"TechXperience"
+},
+{
+    "image":"https://images.pexels.com/photos/15913270/pexels-photo-15913270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title":"TechXperience"
+},{
+    "image":"https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title":"TechXperience"
+}
+]

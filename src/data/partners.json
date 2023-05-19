@@ -1,0 +1,78 @@
+[
+     {
+        "id":0,
+        "name":"Womentechmaker Kolkata",
+        "image":"/assets/WTM.png",
+        "link":""      
+    },  {
+        "id":"0A",
+        "name":"GDG Cloud Kolkata",
+        "image":"/assets/GDG.png",
+        "link":""      
+    },{
+        "id":1,
+        "name":"GDSC JIS UNIVERSITY",
+        "image":"/assets/JIS.png",
+        "link":"dscjisu.in"      
+    },
+    {
+        "id":2,
+        "name":"GDSC BPPIMT",
+        "image":"/assets/BPPIMT.png",
+        "link":"https://gdsc.community.dev/b-p-poddar-institute-of-management-and-technology-kolkata/"      
+    },
+    {
+        "id":3,
+        "name":"GDSC TMSL",
+        "image":"/assets/TMSL.png",
+        "link":"https://gdsc.community.dev/techno-main-salt-lake-kolkata/"      
+    }
+    ,
+    {
+        "id":4,
+        "name":"GDSC IIEST",
+        "image":"/assets/IIEST.png",
+        "link":"https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah/"      
+    },
+    {
+        "id":5,
+        "name":"GDSC NIT",
+        "image":"/assets/NIT.png",
+        "link":"https://gdsc.community.dev/narula-institute-of-technology-agarpara/"      
+    },
+    {
+        "id":6,
+        "name":"Meta Horizon",
+        "image":"/assets/MH.png",
+        "link":"https://meta-horizon-website.vercel.app/"      
+    }
+    ,
+    
+    {
+        "id":7,
+        "name":"Resourcio Community",
+        "image":"/assets/RESOURCIO.png",
+        "link":"https://resourcio-community-website.vercel.app/"      
+    }
+     ,
+    
+    {
+        "id":9,
+        "name":" OSCode",
+        "image":"/assets/OSCODE.png",
+        "link":"www.oscode.co.in"      
+    },
+     {
+        "id":10,
+        "name":" IEI Student's Chapter ECE of Academy of Technology ",
+        "image":"/assets/IEISCAOT.png",
+        "link":""      
+    },
+     {
+        "id":11,
+        "name":"Samarth",
+        "image":"/assets/SAMARTH.png",
+        "link":"https://www.samarthtmsl.live/"      
+    }
+
+]

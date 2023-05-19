@@ -1,0 +1,227 @@
+[{
+    "startTime":"9:00 AM",
+    "endTime":"9:45 AM",
+    "name":"Registration Begins",
+    "place":"TIU Lobby",
+    "speaker":null,
+    "Day1":true
+},
+{
+    "startTime":"10:00 AM",
+    "endTime":"10:30 AM",
+    "name":"Opening Keynote",
+    "place":"Conference Hall",
+    "speaker":null,
+    "Day1":true
+},
+{
+    "startTime":"10:30 AM",
+    "endTime":"11:45 AM",
+    "name":"The Ultimate DSA Placement Guide",
+    "place":"Conference Hall",
+    "speaker":[{
+        "name":"Mohammad Fraz",
+        "image":"https://leadcoding.in/wp-content/uploads/2022/08/IMG_1935-scaled-1-1024x769.jpg.webp",
+        "link":"https://www.linkedin.com/in/frazmohammad/"
+    }],
+    "Day1":true
+},
+{
+    "startTime":"12:00 PM",
+    "endTime":"12:45 PM",
+    "name":"Session by the college dignitaries",
+    "place":"Conference Hall",
+    "speaker":null,
+    "Day1":true
+},
+{
+    "startTime":"12:45 PM",
+    "endTime":"1:45 PM",
+    "name":"Lunch Break & Networking",
+    "place":"Conference Hall",
+    "speaker":null,
+    "Day1":true
+},
+{
+    "startTime":"1:45 PM",
+    "endTime":"2:15 PM",
+    "name":"IAMMatters- Cloud Technology",
+    "place":"Conference Hall",
+    "speaker":[{
+        "name":"Jyoti Mishra",
+        "image":"/assets/Jyoti_Mishra.png",
+        "link":"https://www.linkedin.com/in/jyotim29/"
+    }],
+    "Day1":true
+},
+
+
+{
+    "startTime":"2:30 PM",
+    "endTime":"3:00 PM",
+    "name":"Scaling WebSocket for IoT Devices Using GCP",
+    "place":"Conference Hall",
+    "speaker":[{
+        "name":"Md.Nasirul Haque",
+        "image":"/assets/Nasirul_Haque.jpg",
+        "link":"https://www.linkedin.com/in/mdnasirulhaque/"
+    },{
+        "name":"Pratik Gupta",
+        "image":"/assets/Pratik_Gupta.jpg",
+        "link":"https://www.linkedin.com/in/pratik-gupta-10597a152/"
+    }],
+    "Day1":true
+}
+
+,
+{
+    "startTime":"3:00 PM",
+    "endTime":"3:30 PM",
+    "name":"Upskill your knowledge with Edureka",
+    "place":"Conference Hall",
+    "speaker":null,
+    "Day1":true
+},
+{
+    "startTime":"3:30 PM",
+    "endTime":"4:00 PM",
+    "name":"SYCL Programming",
+    "place":"Conference Hall",
+    "speaker":[{
+        "name":"Abhishek Nandy",
+        "image":"/assets/Abhishek_Nandy.jpeg",
+        "link":"https://www.linkedin.com/in/abhishek-nandy/"
+    }],
+    "Day1":true
+},{
+    "startTime":"4:00 PM",
+    "endTime":"4:30 PM",
+    "name":"Ending Keynote",
+    "place":"Conference Hall",
+    "speaker":null,
+    "Day1":true
+},
+{
+    "startTime":"9:00 AM",
+    "endTime":"9:45 AM",
+    "name":"Registration Begins",
+    
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+},
+{
+    "startTime":"10:00 AM",
+    "endTime":"10:30 AM",
+    "name":"Keynote",
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+},
+{
+    "startTime":"10:30 AM",
+    "endTime":"11:00 AM",
+    "name":"Road to GDE",
+    "place":"EZCC: Purbashree",
+    "speaker":[{
+            "name":"Anubhav Singh",
+            "image":"/assets/Anubhav_Singh.jpg",
+            "link":"https://www.linkedin.com/in/xprilion/"
+        }],
+    "Day1":false
+},
+{
+    "startTime":"11:00 AM",
+    "endTime":"11:30 AM",
+    "name":"The Journey to a million dollars",
+    "place":"EZCC: Purbashree",
+    "speaker":[{
+        "name":"Atulya Kaushik",
+        "image":"/assets/Atulya_Kaushik.jpg",
+        "link":"https://www.linkedin.com/in/atulya-kaushik/"
+    }],
+    "Day1":false
+},{
+    "startTime":"11:30 AM",
+    "endTime":"12:00 PM",
+    "name":"From Ratan Tata to Shark Tank",
+    "place":"EZCC: Purbashree",
+    "speaker":[{
+        "name":"Sayan Chakraborty",
+        "image":"/assets/Sayan_Chakraborty.jpg",
+        "link":"https://www.linkedin.com/in/sayan-chakraborty-b58481133/"
+    }],
+    "Day1":false
+},
+{
+    "startTime":"12:00 PM",
+    "endTime":"12:30 PM",
+    "name":"From college project to redefining lifestyle",
+    "place":"EZCC: Purbashree",
+    "speaker":[{
+        "name":"Sourav Chakraborty",
+        "image":"/assets/Sourav_Chakraborty.jpg",
+        "link":"https://www.linkedin.com/in/sourav-chakraborty-27024b56/"
+    }],
+    "Day1":false
+},{
+    "startTime":"12:30 PM",
+    "endTime":"1:30 PM",
+    "name":"Lunch Break & Networking",
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+}
+,{
+    "startTime":"1:30 PM",
+    "endTime":"2:15 PM",
+    "name":"Career coaching and Content Creation",
+    "place":"EZCC: Purbashree",
+    "speaker":[{
+        "name":"Amandeep Singh",
+        "image":"/assets/Amandeep_Singh.jpg",
+        "link":"https://www.linkedin.com/in/amandeepsinghsindhuria/"
+    }],
+    "Day1":false
+},{
+    "startTime":"2:15 PM",
+    "endTime":"2:45 PM",
+    "name":"Content Kahini with Foodka",
+    "place":"EZCC: Purbashree",
+    "speaker":[{
+        "name":"Indrajit Lahiri",
+        "image":"/assets/Indrajit_Lahiri.jpg",
+        "link":"https://www.linkedin.com/in/lahiriindrajit/"
+    }],
+    "Day1":false
+},{
+    "startTime":"2:45 PM",
+    "endTime":"3:30 PM",
+    "name":"Upskill your knowledge with Edureka",
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+}
+,{
+    "startTime":"3:30 PM",
+    "endTime":"4:30 PM",
+    "name":"Panel Discussion",
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+},{
+    "startTime":"4:30 PM",
+    "endTime":"5:00 PM",
+    "name":"Ending Keynote",
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+},{
+    "startTime":"5:00 PM",
+    "endTime":"5:30 PM",
+    "name":"Vote of Thanks",
+    "place":"EZCC: Purbashree",
+    "speaker":null,
+    "Day1":false
+}
+]
